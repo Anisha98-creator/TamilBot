@@ -2,7 +2,7 @@
 # Licensed under the Raphielscape Public License, Version 1.c (the "License");
 # you may not use this file except in compliance with the License.
 # credits to @AvinashReddy3108
-# Rewritten by @saravanakrish
+# Re-written by @saravanakrish
 
 """
 This module is used for updating Tamilbot
